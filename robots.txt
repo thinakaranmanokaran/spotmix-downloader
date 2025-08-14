@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thinakaranmanokaran.github.io/spotmix-downloader/sitemap.xml
