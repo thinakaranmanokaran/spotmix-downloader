@@ -1,0 +1,21 @@
+{
+    "name": "Spotify Song Downloader",
+    "short_name": "Spotify Downloader",
+    "description": "Download any Spotify song, playlist, or album as high-quality MP3 instantly by pasting the Spotify URL. 100% free, no premium needed.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#1db954",
+    "icons": [
+        {
+            "src": "/spot.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/spot.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
